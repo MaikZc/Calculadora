@@ -4,7 +4,7 @@ function calcular(operacion) {
     let resultado;
   
     if (isNaN(n1) || isNaN(n2)) {
-      resultado = "¡Ingresa ambos números!";
+      resultado = "¡Ingresa ambos númerooooss!";
     } else {
       switch (operacion) {
         case '+': resultado = n1 + n2; break;
